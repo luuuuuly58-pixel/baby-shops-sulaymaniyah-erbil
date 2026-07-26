@@ -1,0 +1,6 @@
+# never commit credentials
+.secrets/
+*.key
+*.env
+.env
+google-places.txt
